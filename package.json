@@ -1,0 +1,11 @@
+{
+  "name": "omnifood-porgeous",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "default": "index.html",
+  "scripts": {
+    "build": "index.html --dist-dir ./dist"
+  },
+  "author": "Ethan P",
+  "license": "ISC"
+}
